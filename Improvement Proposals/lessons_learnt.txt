@@ -3,6 +3,9 @@
 
 # Suggested Improvements
 
-### Improvement Area
-- **Current State and Its Result**: [Brief description of the current process or challenge and the pain this caused]
-- **Proposed Solution**: [Brief description of the improvement or solution]
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
