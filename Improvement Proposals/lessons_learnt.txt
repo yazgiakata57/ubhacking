@@ -4,6 +4,5 @@
 # Suggested Improvements
 
 ### Improvement Area
-- **Current State**: [Brief description of the current process or challenge]
-- **Current State's Result**: [Brief description of the the pain this caused]
+- **Current State and Its Result**: [Brief description of the current process or challenge and the pain this caused]
 - **Proposed Solution**: [Brief description of the improvement or solution]
