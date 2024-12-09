@@ -1,8 +1,70 @@
-# Team: [Team Name]
-## Team Lead: [Your Name]
+# TEAM NAME
 
-# Suggested Improvements
+#LOGISTICS
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
 
+#SPONSORSHIP
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
+
+#FOOD
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
+
+#STREAMING
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
+
+#PUBLICITY
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
+
+#WEB
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
+
+#VENUE
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
+
+#GRAPHICS
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
+
+#MEDIA 
 - **What went well?**: [Brief points]
     - During Task A, this went well.
 - **What didn't go well?**: [Brief points]
