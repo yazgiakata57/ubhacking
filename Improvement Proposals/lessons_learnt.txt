@@ -1,0 +1,10 @@
+# Team: [Team Name]
+## Team Lead: [Your Name]
+
+# Suggested Improvements
+
+### Improvement Area
+- **Current State**: [Brief description of the current process or challenge]
+- **Current State's Result**: [Brief description of the the pain this caused]
+- **Proposed Solution**: [Brief description of the improvement or solution]
+- **Expected Impact**: [Brief description of the potential benefits]
