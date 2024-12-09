@@ -1,11 +1,17 @@
 # Team: [Team Name]
 ## Team Lead: [Your Name]
 
+### RESPONSIBILITIES
+bulleted list
+
+
 ### Timeline of Activities
 | Date       | Task/Activity                | Notes/Challenges                           |
 |------------|------------------------------|--------------------------------------------|
 | YYYY-MM-DD | [Task description]           | [Notes or challenges faced]               |
 | YYYY-MM-DD | Task A                       | [Notes or challenges faced]               |
+
+
 
 ### Reflections
 - **What went well?**: [Brief points]
