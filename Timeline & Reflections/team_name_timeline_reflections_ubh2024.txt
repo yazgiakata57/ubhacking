@@ -6,10 +6,10 @@ bulleted list
 
 
 ### Timeline of Activities
-| Date       | Task/Activity                | Notes/Challenges                           |
-|------------|------------------------------|--------------------------------------------|
-| YYYY-MM-DD | [Task description]           | [Notes or challenges faced]               |
-| YYYY-MM-DD | Task A                       | [Notes or challenges faced]               |
+| Date       | Task/Activity (WHAT TO DO)               | Notes/Challenges    (HOW TO DO)           |
+|------------|------------------------------            |-------------------------------------------|
+| YYYY-MM-DD | [Task description]                       | [Notes or challenges faced]               |
+| YYYY-MM-DD | Task A                                   | [Notes or challenges faced]               |
 
 
 
