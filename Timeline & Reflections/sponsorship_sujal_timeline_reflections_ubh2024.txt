@@ -1,0 +1,56 @@
+# Team: Sponsorship
+## Team Lead: Sujal Dattarao Bhakare
+
+### RESPONSIBILITIES
+    - Preparing Sponsorship packet
+    - Drafting emails and responses
+    - Making/Updating the potential sponsors list
+    - Email Solicitation
+    - Linkedin Solicitation
+    - Replying to potential sponsor emails
+    - Communicating with sponsors throughout
+    - Conducting meetings with sponsors
+    - Piching UBhacking in meetings with sponsors
+    - Communicating with Directors throughout
+    - Looking for potential sponsors in personal contacts and peer contacts and soliciting them
+    - Finalizing the Sponsorships and sending out the sponsors list to logistics, food, venue, etc leads for their respective works
+    - Collecting Sponsor specific logo's and marketing material.
+    - Collecting RSVP Data and send it to the other leads
+    - Organise Sponsorship dinner and help in the logistics of the day
+    - Prepare Sponsorship dinner presentation 
+        - See previous years slides
+        - Prepare enough it will be hard to hold on to nerves when you see so many people in front of you
+        - Dont worry it is not the final destination, enjoy it.
+    - Connect and converse with sponsors and make them familiar at the dinner
+    - Figure out the tabling, nametags for sponsors on the day of hackthon
+    - During the day of hackthon, be mobile but also keep an eye on sponsors.
+
+
+### Timeline of Activities
+| Date       | Task/Activity (WHAT TO DO)               | Notes/Challenges    (HOW TO DO)           |
+|------------|------------------------------            |-------------------------------------------|
+| 2024-05-27 | Make Sponsorship Packet                  | Work during or after the end of spring semester seems a bit of a task and the productivity is also low
+| 2024-06-01 | Drafting Solicitation Emails             | There is a templete in ubh '24 folder you can use that if you want
+| 2024-06-05 | Drafting Linked Colicitation             | Keep them under word limit and try to make it impactful
+| 2024-06-20 | Create Potential Sponsor List            | Make the list of companies who will sponsor us.
+| 2024-07-25 | Email The Sponsors From the List         | Hard to maintain every mailing list and to mail every sponsor, it is tedious but necessasary.
+| 2024-07-25 | Follow-Up Email Template                 |
+| 2024-08-15 | Make an Elevator Pitch for UB hacking    | It is difficult to summarize everything in such small pitch and then to memorise and use in meetings, i would say create bullet points and then use them
+| 2024-08-20 | Paper mail templete - mailing companies  | Draft it as a paper mail should be
+| 2024-08-21 | 2nd Follow Up email Drafting             | 
+| 2024-08-21 | 3rd Follow Up email Drafting             | 
+| 2024-09-23 | Setup and make Sales Navigator           | Hard to navigate and find helpful people, and our visibility is low.
+| 2024-09-30 | Sponsorship Email for Faculty Connection |
+| 2024-10-18 | Further Logistics Email                  | ask them for commercials, logos, etc
+
+
+### Reflections
+- **What went well?**: [Brief points]
+    - During Task A, this went well.
+- **What didn't go well?**: [Brief points]
+    - During Task A, this did not go well.
+- **Suggestions for improvement**: [Brief points]
+    - For Task A, we can do this next time.
+
+### Supporting Documents and Points of Contact (and Department)
+[Link to relevant documents, PRs, or other resources]
