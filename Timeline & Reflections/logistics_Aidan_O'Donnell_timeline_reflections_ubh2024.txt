@@ -1,0 +1,72 @@
+# Team: Logistics
+## Team Lead: Aidan O'Donnell 
+
+### RESPONSIBILITIES
+- Coordinating merchandise orders
+    - This includes both designing and ordering the merch.
+- Ordering Prizes for events 
+- Creating/planning activities for the hackathon 
+- Running events while judging is occurring 
+
+
+### Timeline of Activities
+| Date       | Task/Activity (WHAT TO DO)               | Notes/Challenges    (HOW TO DO)           |
+|------------|------------------------------            |-------------------------------------------|
+| 2024-08-27 | 1. Generate list of prizes to give out   | Very tenative list of ideas due to budget uncertainty, good to have options, but ended up not going with many of them.            |
+| 2024-09-13 | 2. Sent out Microsoft form to get sizes of leads t-shirts/hoodies   | Not everyone filled out the form, so I ordered mediums/smalls for people who didnt respond               |
+| 2024-09-13 | 3. Reached out to 4Imprint on their website to ask for a contact and a rough cost estimate of the merchandise we needed   | No comments otheer than they responded quickly and put me in contact with Joe Lang: jlang@4imprint.com . I then researched what specific products I needed for the followup email          |
+| 2024-09-28 | 4. Recieved initial quote on merchandise/apparel from 4Imprint     | In this initial quote, I estimated rough numbers and sizes for the merchandise, and asked for more than we needed to see how much extra items (mugs, waterbottles, keychains) would cost              |
+| 2024-09-28 | 5. Made mockups of the merchandise to show other leads/stay on same page with everyone      | This is in the OneDrive under '/Logistics/AlmostFinalizedSwag/UBH Swag Quotes Simplified |
+| 2024-10-07 | 6. Had leads vote on the colors of the shirts for each tier (tier meaning leads, sponsors and hackers)     | Nothing to note other than the results were chosen from this |
+| 2024-10-11 | 7. Finalized the quote for the hackathon with final items/colors/size distribution    | Got approval from directors before placing order             |
+| 2024-10-17 | 8. Placed order for hacker, lead, director and sponsor/mentor T-Shirts      | Placed by emailing Joe (previous contact above) with a list of the items that I wanted (item number, color, size distribution, front and back graphics)  had to wait to place until this day due to budget/sponsor concerns |
+| 2024-10-18 | 9. Contacted UBTrademarks to get faster approval process of design     | Reached out to ubtrademarks@vpfa.buffalo.edu and ctodd@buffalo.edu, neither replied or answered their phone. We emailed Marcene Robinson as well: marcener@buffalo.edu, she replied. Sujal went to south campus to talk in person and see if they could approve our design faster than usual due to time constraints |
+| 2024-10-21 | 10. Emailed Kimberly Lewis for ordering Amazon Prizes      | This included prizes for events and also the prizes for winners of certain categories     |
+| 2024-10-21 | 11. Ordered Stickers from StickerMule    | Joy Lee From graphics designed the stickers in the needed formats, got a variety of stickers (see invoice in OneDrive for specifics)|
+| 2024-10-22 | 12. Approved artwork via form sent from trademarks office (I signed it, John Nguyen, and Yazgi Akata did also as "witnesses")      | Needed to be signed for the design approval to go through, sent to me from Patti McAllister: pamcalli@buffalo.edu             |
+| 2024-10-23 | 13. Artwork Disapproved by UBTrademarks  | Back of the shirt had the UBCSE Dept logo on it and there was not "3 interlocking UB Logos of space below it before the next sponsor"         |
+| 2024-10-24 | 14. Revised artwork approved by UBTrademarks | 4Imprint was able to begin production now.             |
+| 2024-10-24 | 15. Received stickers from StickerMule   | Turned out so well!!!! Shoutout Joy and StickerMule |
+| 2024-10-25 | 16. 4Imprint emailed us letting us know that they did not have size mediums in the color we wanted      | We mitigated this issue by changing the color            |
+| 2024-10-29 | 17. Amazon stuff arrived                 | Prizes that Kim ordered were in her office and later moved to Carl's Corner.           |
+| 2024-11-07 | 18. 4Imprint merchandise arrived (Phew!) | So exciting, but definitely way to close to the date of the event (two days before)           |
+| 2024-11-09 | 19. Went to Walmart to get prizes/scissors/crayons for keychain making event and other events      | Needed to go right when Walmart opened because the night before (11/8) we realized the Squishmallos were not in the 1st, 2nd, or 3rd floor mail rooms so we needed prizes.   |
+| 2024-11-09 | 20. Held raffle for signed copy of Ethan Blanton's Book!      | Used the ticket reel in Carl's Corner and a box to shuffle the tickets; drawing of the raffle was handled by Parth.             |
+| 2024-11-09 | 21. Cup Stacking/Rock Paper Scissors Tournament      | Despite previous years saying it did not go well, having the same cups (just solo cups, but all the same brand) made this event and rock paper scissors really fun/successful, would recommend again!        |
+| 2024-11-09 | 22. Keychain Making event                | People absolutely loved this one, we ran out of keychains at 2am!!! (we had 60)            |
+| 2024-11-10 | 23. Events during judging                | Typeracer, GeoGuessr, Blooket. Typeracer was fun, but it gets old quick, GeoGuessr is good for ab 3 games before people lose interest, Professor based trivia (random facts obtained in the previous weeks ab the professors) was a huge hit, was 28 questions long for reference. All winners received a squishmallo |
+| 2024-11-19 | 24. Ordered Hoodies for the leads        | Ordered through same person and company (Joe Lang at 4Imprint) via email due to last minute increase in funds        |
+| 2024-12-09 | 25. Leads hoodies arrived                | They look great!             |
+
+
+### Reflections
+- **What went well?**: [Brief points]
+    - For task 11, StickerMule was great, they had excellent customer service, quick shipping, and let us get a refund on Tax.
+    - 4Imprint was great!!! Super fast shipping and made sure we got stuff on time. 
+    - Events went great!! People had a lot of fun/were not bored (Tasks 20-23).
+
+- **What didn't go well?**: [Brief points]
+    - For task 11, we should have ordered it with a Tax Exemption form, I did not know this, but every purchase for UBHacking should be made with a tax exemption form 
+    - For task 13, the artwork was not up to UBTrademarks standards (see above)
+    - For task 8, we placed the order too late 
+    - For task 17, I checked the order except for the Squishmallos, I did not check those and they did not arrive in time, resulting in task 19.
+
+- **Suggestions for improvement**: [Brief points]
+    - Use the log (this document) throughout the planning of the Hackathon to both show improvement during meetings and have things in writing
+    - Order sooner than we did 
+    - Submit the Tax Exemption form for every purchase
+    - Make sure that the UB Logo has followed the correct spacing policies for trademarks 
+    - Double check that the orders came properly a week before the event.
+
+### Supporting Documents and Points of Contact (and Department)
+[Link to relevant documents, PRs, or other resources]
+
+- See OneDrive for invoices/mockups (this will show prices, quantity and size distributions)
+ 
+Useful Contacts: 
+
+- Kimberly Lewis: klewis24@buffalo.edu (For ordering things on Amazon, also has a company Card)
+- Alan Hunt: ahunt@buffalo.edu (Payment for merchandise)
+- Patti McAllister: pamcalli@buffalo.edu (UB Trademarks office, she approves the design of the merch)
+- Joe Lang: jlang@4imprint.com (4Imprint rep/GOAT)
+- StickerMule: reach out via the company's email for a University discount on the stickers, they will give it to you after making an account with a buffalo.edu address. 
