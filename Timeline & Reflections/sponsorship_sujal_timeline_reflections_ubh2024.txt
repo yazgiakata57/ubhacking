@@ -46,9 +46,15 @@
 
 ### Reflections
 - **What went well?**: [Brief points]
-    - During Task A, this went well.
+    - When we contacted sponsors in 2nd list (new one) we got faster replies and more positive responses and eventually teh conversion rate from this list was the highest
+    - Drafting emails, linkedin solicitations, sponsorship packet and making the elevator pitch was fast and we saved a lot of time by reusing some templates.
+    - We managed to get food sponsor (craft coffee house) which was a very big plus point (food is expensive)
+    - The sponsorship dinner was a success, we connected to sponsors on a personal level and got a lot's of insights (more in suggestion section)
+
 - **What didn't go well?**: [Brief points]
-    - During Task A, this did not go well.
+    - The cponersion rate (potential->sponsor) from the firsl list was very low, which wasted a lots of time
+    - We didnt started early and we didnt targeted compnied who could be interested, ratr we went to companies we previously contacted (prev year) and maybe didnt got their sponsor
+    - Me (Sujal) could have pushed more, walk that extra mile like Andrew did, but in the last everything fell into the place and we got a good hackthon.
 - **Suggestions for improvement**: [Brief points]
     - For Task A, we can do this next time.
 
